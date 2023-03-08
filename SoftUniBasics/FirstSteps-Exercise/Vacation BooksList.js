@@ -4,8 +4,8 @@ function vacationBooksList(input) {
     let pagesPerHour = Number(input[1]);
     let daysPerBook = Number(input[2]);
 
-    let hoursNeededPerBook = bookPages / pagesPerHour
-    let neededDays = hoursNeededPerBook/daysPerBook
+    let hoursNeededPerBook = bookPages / pagesPerHour;
+    let neededDays = hoursNeededPerBook/daysPerBook;
 
     console.log(neededDays);
 }
