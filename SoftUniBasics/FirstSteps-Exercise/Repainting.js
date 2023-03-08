@@ -8,7 +8,7 @@ function repainting(input) {
     let paintRequired = Number(input[1])
     let thinnerRequired = Number(input[2])
     let hoursRequired = Number(input[3])
-    
+    //TEST
 }
 repainting(["10 ", "11 ", "4 ", "8 "]);
 repainting(["5 ", "10 ", "10 ", "1 "]);
