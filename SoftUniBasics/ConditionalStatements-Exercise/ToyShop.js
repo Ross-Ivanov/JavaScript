@@ -24,10 +24,10 @@ function toyShop(input) {
     let totalToysQuantity = puzzleCount + dollsCount + bearsCount + minionsCount + trucksCount;
 
     if (totalToysQuantity >= 50){
-        totalPrice *= 0.75
+        totalPrice *= 0.75;
     }
 
-    totalPrice *= 0.9
+    totalPrice *= 0.9;
 
     totalPrice -= tripPrice
     if (totalPrice >= 0){
