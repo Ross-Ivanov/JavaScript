@@ -1,5 +1,10 @@
 function worldSwimmingRecord(input) {
 
+    let currentRecord = Number(input[0]);
+    let distanceInMeters = Number(input[1]);
+    let secondsPerMeter = Number(input[2]);
+    
+
 }
 
 worldSwimmingRecord(["10464", "1500", "20"]);
