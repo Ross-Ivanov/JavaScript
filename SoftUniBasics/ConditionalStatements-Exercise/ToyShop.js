@@ -1,4 +1,4 @@
-function toyShop() {
+function toyShop(input) {
 
 
 }

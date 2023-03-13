@@ -1,3 +1,3 @@
-function worldSwimmingRecord() {
+function worldSwimmingRecord(input) {
 
 }
