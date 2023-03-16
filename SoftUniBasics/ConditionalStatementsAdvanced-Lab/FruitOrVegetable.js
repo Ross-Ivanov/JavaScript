@@ -1,6 +1,4 @@
-function fruitOrVegetable() {
-
-}
+function fruitOrVegetable(input) {}
 
 fruitOrVegetable(["banana"]);
 fruitOrVegetable(["apple"]);
