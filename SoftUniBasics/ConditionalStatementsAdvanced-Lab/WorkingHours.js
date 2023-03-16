@@ -1,4 +1,4 @@
-function workingHours() {
+function workingHours(input) {
     
 }
 
