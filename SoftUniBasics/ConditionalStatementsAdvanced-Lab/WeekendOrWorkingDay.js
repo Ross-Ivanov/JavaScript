@@ -1,5 +1,5 @@
 function weekendOrWorkingDay(input) {
-    let currentDay = input[0]
+    let currentDay = input[0];
         switch (currentDay) {
           case "Monday":
           case "Tuesday":

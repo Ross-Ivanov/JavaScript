@@ -1,5 +1,5 @@
 function smallShop(input) {
-
+    let product = input[0];
 }
 
 smallShop(["coffee", "Varna", "2"]);
