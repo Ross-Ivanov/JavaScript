@@ -25,7 +25,7 @@ function cinemaTicket(input) {
         ticketPrice = 16;
         break;
     }
-    console.log(ticketPrice)
+    console.log(ticketPrice);
 
 }
 
